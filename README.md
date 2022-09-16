@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akachi Victor
 - 👀 I’m interested in web, desktop and browser applications, Computational science and Petroleum Industry software development
-- 🌱 I’m currently learning Javascript as a foundation for NextJs, ReactNative and NodeJS
+- 🌱 I’m currently learning Javascript as a foundation for NextJs, ReactNative and NodeJS after which I will proceed to learn RUST for efficient software development
 - 💞️ I’m looking to collaborate on backend projects and API for businesses
 - 📫 How to reach me my LinkedIn and email anabantiakachi1@gmail.com
 
